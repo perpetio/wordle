@@ -1,6 +1,7 @@
 # Wordle game
 
 Wordle done using Flutter for iOS and Android platforms.
+![Screen1](https://github.com/perpetio/wordle/blob/main/screen1.png?raw=true) ![Screen2](https://github.com/perpetio/wordle/blob/main/screen2.png?raw=true)
 
 ## Getting Started
 
