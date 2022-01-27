@@ -2,6 +2,12 @@
 
 Wordle done using Flutter for iOS and Android platforms.
 
+## See our tutorial post:
+
+[Setup Flutter project and create Clubhouse clone app UI](https://perpet.io/blog/making-wordle-game-mobile-app-clone-with-flutter-full-tutorial/)
+
+## Screenshots
+
 <img src="https://github.com/perpetio/wordle/blob/main/screen1.png?raw=true" alt="drawing" width="400"/> <img src="https://github.com/perpetio/wordle/blob/main/screen2.png?raw=true" alt="drawing" width="400"/>
 
 ## Getting Started
