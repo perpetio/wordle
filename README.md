@@ -4,7 +4,7 @@ Wordle done using Flutter for iOS and Android platforms.
 
 ## See our tutorial post:
 
-[Setup Flutter project and create Clubhouse clone app UI](https://perpet.io/blog/making-wordle-game-mobile-app-clone-with-flutter-full-tutorial/)
+[Making Wordle Game Mobile App With Flutter: Full Tutorial](https://perpet.io/blog/making-wordle-game-mobile-app-clone-with-flutter-full-tutorial/)
 
 ## Screenshots
 
